@@ -1,0 +1,1 @@
+# caminhos e funções auxiliares
